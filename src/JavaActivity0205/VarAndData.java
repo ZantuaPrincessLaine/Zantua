@@ -14,7 +14,7 @@ public class VarAndData {
          
          int radius = 14;
        
-            Area = Math.PI*(radius * radius)
+//            Area = Math.PI*(radius * radius)
          
          
 //         int Num1 = 34;
